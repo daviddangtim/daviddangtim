@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, my name is David Dangtim</h1>
 <h3 align="center">A backend developer/ mobile app developer looking into game development.</h3>
 
-- 🔭 I’m currently working on [Crop Disease Detection](github.com/daviddangtim/placeholder)
+- 🔭 I’m currently working on [Social Media Application for my friends](github.com/daviddangtim/gopherSocial)
 
 - 🌱 I’m currently learning **Flutter and Golang**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **node.js, golang, python**
 
-- 📫 How to reach me **daviddangtim@outlook.com**
+- 📫 How to reach me **dangtimdavid021@gmail.com**
 
 - 📄 Know about my experiences [placeholder link](placeholder link)
 
