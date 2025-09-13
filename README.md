@@ -13,6 +13,9 @@
 
 - 📄 Know about my experiences [placeholder link](placeholder link)
 
+- Github Stats
+- [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddangtim)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/daviddangtim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="daviddangtim" height="30" width="40" /></a>
