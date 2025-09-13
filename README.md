@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [placeholder link](placeholder link)
 
-- Github Stats
+- <h3 align="left">My Github Stats:</h3>
 - [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddangtim)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
