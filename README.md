@@ -1,5 +1,5 @@
-<h1 align="center">Greetings, my name is David Dangtim</h1>
-<h3 align="center">A backend developer/ mobile app developer looking into game development.</h3>
+<h1 align="center">Hello! My name is David Dangtim</h1>
+<h3 align="center">A backend developer / mobile app developer.</h3>
 
 - 🔭 I’m currently working on [Social Media Application for my friends](github.com/daviddangtim/gopherSocial)
 
